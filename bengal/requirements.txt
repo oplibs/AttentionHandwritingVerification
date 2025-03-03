@@ -1,0 +1,5 @@
+kagglehub
+torch
+torchvision
+timm
+matplotlib
